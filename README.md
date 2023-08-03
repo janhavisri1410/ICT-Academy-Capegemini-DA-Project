@@ -25,6 +25,6 @@ Key Steps and Insights:
 GitHub Repository:
 The entire project, including the Jupyter Notebook containing the data analysis code, data files, and other related resources, is available in the GitHub repository. Feel free to explore the code and documentation to gain insights into my data analysis process.
 
-Link to GitHub Repository: 
+Link to GitHub Repository: https://github.com/janhavisri1410/ICT-Academy-Capegemini-DA-Project
 
 I hope you find this project informative and insightful. If you have any questions or suggestions, please don't hesitate to reach out. Happy exploring! 😊
