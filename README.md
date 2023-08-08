@@ -1,27 +1,59 @@
 # ICT-Academy-Capegemini-DA-Project
-Title: Data Analysis Project - ICT ACADEMY (Empowered by Capgemini)
+Sure, here is a README that you can use for your COVID-19 data analysis code:
 
-Description:
-Welcome to my data analysis project developed during my participation in the ICT ACADEMY program, empowered by Capgemini! This project showcases my data analysis skills and insights gained through the program.
 
-Project Overview:
-In this project, I have performed a comprehensive data analysis using Python and various data analysis libraries, focusing on a dataset named "train.csv." The dataset contains information on [e.g., sales data, customer information, etc.]. I've explored the dataset, cleaned the data, handled missing values, and derived valuable insights to make data-driven decisions.
+# COVID-19 Data Analysis
 
-Key Steps and Insights:
-1. Data Exploration: I started by exploring the dataset to understand its structure, data types, and size. I've shared my findings in the analysis report.
+Using the Pandas library and related tools, this code performs data loading, cleaning, exploration, visualization, and correlation analysis on a COVID-19 dataset.
 
-2. Data Cleaning: I dealt with missing values, duplicates, and inconsistencies in the dataset. Cleaning the data is essential to ensure the accuracy of the analysis.
+## Requirements
 
-3. Data Visualization: I utilized data visualization libraries like Matplotlib and Seaborn to create insightful charts, graphs, and plots. These visualizations aid in understanding patterns, trends, and correlations within the data.
+* Python 3.6+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
 
-4. Feature Engineering: I engineered new features or transformed existing ones to improve the model's performance and interpretability.
+## Usage
 
-5. Statistical Analysis: I performed statistical analysis to uncover hidden relationships and patterns in the data.
+1. Clone the repository
+2. Install the dependencies
 
-6. Machine Learning: (Optional - Include this section if applicable) If applicable, I have applied machine learning algorithms to predict [mention the prediction target, e.g., sales, customer behavior, etc.] based on the dataset features.
 
-7. Conclusion and Recommendations: I have summarized the key findings, insights, and conclusions drawn from the data analysis. Additionally, I provide actionable recommendations based on the analysis to help stakeholders make informed decisions.
+pip install -r requirements.txt
+```
 
+3. Run the code
+
+## Output
+
+The code will output the following:
+
+* A summary of the dataset
+* A list of countries with missing values
+* A bar graph of the top 5 countries by COVID-19 cases
+* A bar graph of the 5 countries with the least COVID-19 deaths
+* A bar graph of the top 5 countries by COVID-19 deaths
+* A bar graph of the 5 countries with the least COVID-19 deaths
+* A bar graph of the top 5 countries by COVID-19 death percentage
+* A bar graph of COVID-19 cases by continent
+* Scatter plots of the relationship between population and total cases, and between population and total deaths
+* A heatmap of the Spearman rank correlation coefficients for numerical columns
+
+## Contributing
+
+This project is open source and welcomes contributions.
+
+To contribute, fork the repository and create a pull request.
+
+Please follow the coding style guide.
+
+## License
+
+This project is licensed under the MIT License.
+
+
+I hope this helps!
 GitHub Repository:
 The entire project, including the Jupyter Notebook containing the data analysis code, data files, and other related resources, is available in the GitHub repository. Feel free to explore the code and documentation to gain insights into my data analysis process.
 
