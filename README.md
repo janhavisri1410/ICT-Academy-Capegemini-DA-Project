@@ -18,11 +18,7 @@ Using the Pandas library and related tools, this code performs data loading, cle
 
 1. Clone the repository
 2. Install the dependencies
-
-
 pip install -r requirements.txt
-```
-
 3. Run the code
 
 ## Output
